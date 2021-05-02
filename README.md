@@ -1,10 +1,11 @@
 Crafting Anywhere
  
 Requires [MelonLoader](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
+ 
 Requires [ModSettings](https://github.com/zeobviouslyfakeacc/ModSettings/releases)
 
 Allows you to remove the location requirements from craftable items (eg workbench).
-Settings for each craftable item so you can pick and choose.
+Individual settings for each craftable item so you can pick and choose.
 No other crafting requirements are changed! For example, you still need a Heavy Hammer to craft Arrowheads.
 
 
